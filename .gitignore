@@ -100,3 +100,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Emacs
+*~
+
+# Temporary data files
+*.in
+*.out
